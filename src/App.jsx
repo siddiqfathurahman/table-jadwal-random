@@ -5,7 +5,7 @@ const NAMES = [
   "Dapol", "Lovy", "Pandya", "Nada", "Danis", "Dea", "Bayu", "Nayla",
   "Briyan", "Kiki", "Putra", "Queen", "Arvan", "Salsa", "Radit (Dodot)", "Nita",
   "Dani", "Akmal", "Bian", "Kevin", "Evan", "Lintang", "Ilham (Kikik)", "Adit",
-  "Abi", "Rafa", "Selo", "Nayaka", "Rafi", "Ripat"
+  "Abi", "Rafa", "Selo", "Nayaka", "Rafi", "Ripat", "deplin","eka", "rega", "aga"
 ];
 
 const DAYS_IN_MONTH = 31;
